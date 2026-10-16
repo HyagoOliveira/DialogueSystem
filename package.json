@@ -1,22 +1,24 @@
 {
-  "name": "com.actioncode.[package-name]",
-  "displayName": "ActionCode-[Package Name]",
+  "name": "com.actioncode.dialogue-system",
+  "displayName": "ActionCode-Dialogue System",
   "version": "0.1.0",
   "unity": "6000.3",
-  "description": "This package contains [...].",
+  "description": "Event-driven, lightweight dialogue system designed for modular narrative workflows in Unity.",
   "keywords": [
-    "",
-    ""
+    "dialogue",
+    "dialoguesystem",
+    "narrative",
+    "conversation"
   ],
   "dependencies": {},
   "license": "MIT",
-  "homepage": "https://github.com/HyagoOliveira/[PackageName]#README",
+  "homepage": "https://github.com/HyagoOliveira/DialogueSystem#README",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HyagoOliveira/[PackageName].git"
+    "url": "https://github.com/HyagoOliveira/DialogueSystem.git"
   },
-  "documentationUrl": "https://github.com/HyagoOliveira/[PackageName]#README",
-  "changelogUrl": "https://github.com/HyagoOliveira/[PackageName]/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/HyagoOliveira/DialogueSystem#README",
+  "changelogUrl": "https://github.com/HyagoOliveira/DialogueSystem/blob/main/CHANGELOG.md",
   "author": {
     "name": "Hyago Oliveira",
     "email": "hyagogow@gmail.com"
